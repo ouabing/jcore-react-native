@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6212E9F11F3991D500BDF51A /* RCTJCoreModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 6212E9F01F3991D500BDF51A /* RCTJCoreModule.m */; };
-		E62B8EEF2510B9FE00D64B51 /* jcore-noidfa-ios-2.3.4.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E62B8EEE2510B9FE00D64B51 /* jcore-noidfa-ios-2.3.4.a */; };
+		E6131A922510C45C0030FBAA /* libjcore-ios-2.3.4.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6131A912510C45C0030FBAA /* libjcore-ios-2.3.4.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,7 +27,7 @@
 		6212E9B41F3990DC00BDF51A /* libRCTJCoreModule.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRCTJCoreModule.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		6212E9EF1F3991D500BDF51A /* RCTJCoreModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTJCoreModule.h; sourceTree = "<group>"; };
 		6212E9F01F3991D500BDF51A /* RCTJCoreModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RCTJCoreModule.m; sourceTree = "<group>"; };
-		E62B8EEE2510B9FE00D64B51 /* jcore-noidfa-ios-2.3.4.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "jcore-noidfa-ios-2.3.4.a"; path = "RCTJCoreModule/jcore-noidfa-ios-2.3.4.a"; sourceTree = "<group>"; };
+		E6131A912510C45C0030FBAA /* libjcore-ios-2.3.4.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libjcore-ios-2.3.4.a"; path = "RCTJCoreModule/libjcore-ios-2.3.4.a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,7 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E62B8EEF2510B9FE00D64B51 /* jcore-noidfa-ios-2.3.4.a in Frameworks */,
+				E6131A922510C45C0030FBAA /* libjcore-ios-2.3.4.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -45,7 +45,7 @@
 		5CE8168A22FC0295007D710C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E62B8EEE2510B9FE00D64B51 /* jcore-noidfa-ios-2.3.4.a */,
+				E6131A912510C45C0030FBAA /* libjcore-ios-2.3.4.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
